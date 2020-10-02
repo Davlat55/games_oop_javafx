@@ -26,4 +26,5 @@ public class Block implements Figure {
     public boolean movable() {
         return false;
     }
+
 }
